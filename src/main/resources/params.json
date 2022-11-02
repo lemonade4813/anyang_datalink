@@ -1,0 +1,547 @@
+{
+  "9": {
+    "tbNm": "tdw_gg_indoor_air_mng_trgt_ftbnpl_sttus",
+    "url": "datadream",
+    "jsonDivide": "IndoorAirManageFaclt"
+  },
+  "34": {
+    "tbNm": "tdw_gg_relif_sttus",
+    "url": "datadream",
+    "jsonDivide": "ReliefAction"
+  },
+  "36": {
+    "tbNm": "tdw_hh_cnt_tot_sttus",
+    "url": "datadream",
+    "jsonDivide": "FammemAcctoHshldCnt"
+  },
+  "37": {
+    "tbNm": "tdw_bild_age_info_atrb",
+    "url": "datagov",
+    "jsonDivide": "buildingAges",
+    "params": [
+      "4117310100",
+      "4117310200",
+      "4117310400",
+      "4117110200",
+      "4117310300",
+      "4117110100",
+      "4117110300"
+    ]
+  },
+  "39": {
+    "tbNm": "tdw_wnty_cctv_std_data",
+    "url": "datagov"
+  },
+  "43": {
+    "tbNm": "tdw_msrstn_info",
+    "url": "airkorea"
+  },
+  "44": {
+    "tbNm": "tdw_arpltn_msrstn_rltm_mesure_info",
+    "url": "airkorea",
+    "paramNm" : "stationName",
+    "params": [
+      "안양2동",
+      "안양8동",
+      "부림동",
+      "호계동"
+    ]
+  },
+  "45": {
+    "tbNm": "tdw_arpltn_stats_msrstn_rltm_daly_avrg_info",
+    "url": "airkorea",
+    "paramNm" : "msrstnName",
+    "params": [
+      "안양2동",
+      "안양8동",
+      "부림동",
+      "호계동"
+    ]
+  },
+  "47": {
+    "tbNm": "tdw_minu_dust_alarm_sttus_info",
+    "url": "datagov"
+  },
+  "48": {
+    "tbNm": "tdw_minu_dust_hml_rltm_info",
+    "url": "datagov",
+    "jsonDivide": "MetalService"
+  },
+  "60": {
+    "tbNm": "tdw_area_crrncy_frcs_sttus",
+    "url": "datadream",
+    "jsonDivide": "RegionMnyFacltStus"
+  },
+  "61": {
+    "tbNm": "tdw_area_crrncy_pblcn_nd_use_sttus",
+    "url": "datadream",
+    "jsonDivide": "RegionMnyPublctUse"
+  },
+  "46": {
+    "tbNm": "tdw_arpltn_stats_msrstn_rltm_mnby_avrg_info",
+    "url": "airkorea",
+    "paramNm" : "msrstnName",
+    "params": [
+      "안양2동",
+      "안양8동",
+      "부림동",
+      "호계동"
+    ]
+  },
+  "68": {
+    "tbNm": "tdw_adnge_popltn_rt",
+    "url": "kosis"
+  },
+  "70": {
+    "tbNm": "tdw_adnge_idex",
+    "url": "kosis"
+  },
+  "72": {
+    "tbNm": "tdw_dcsd_cnt",
+    "url": "kosis"
+  },
+  "74": {
+    "tbNm": "tdw_popltn_incrs_rt",
+    "url": "kosis"
+  },
+  "76": {
+    "tbNm": "tdw_mvin_popltn",
+    "url": "kosis"
+  },
+  "78": {
+    "tbNm": "tdw_mvt_popltn",
+    "url": "kosis"
+  },
+  "80": {
+    "tbNm": "tdw_rsgst_popltn",
+    "url": "kosis"
+  },
+  "82": {
+    "tbNm": "tdw_brth_number",
+    "url": "kosis"
+  },
+  "84": {
+    "tbNm": "tdw_sm_brth_rt",
+    "url": "kosis"
+  },
+  "86": {
+    "tbNm": "tdw_one_person_hshld_rt",
+    "url": "kosis"
+  },
+  "88": {
+    "tbNm": "tdw_one_odsn_hshld_rt",
+    "url": "kosis"
+  },
+  "90": {
+    "tbNm": "tdw_cnsmr_prices_idex",
+    "url": "kosis"
+  },
+  "92": {
+    "tbNm": "tdw_cnsmr_prices_flctsrt",
+    "url": "kosis"
+  },
+  "94": {
+    "tbNm": "tdw_hshld_income",
+    "url": "kosis"
+  },
+  "96": {
+    "tbNm": "tdw_hshld_assets_nd_debt",
+    "url": "kosis"
+  },
+  "98": {
+    "tbNm": "tdw_emplym_rt_gg",
+    "url": "kosis"
+  },
+  "100": {
+    "tbNm": "tdw_emplym_rt_anyang",
+    "url": "kosis"
+  },
+  "102": {
+    "tbNm": "tdw_unempl_rt_gg",
+    "url": "kosis"
+  },
+  "104": {
+    "tbNm": "tdw_unempl_rt_anyang",
+    "url": "kosis"
+  },
+  "106": {
+    "tbNm": "tdw_ygmn_emplym_rt_gg",
+    "url": "kosis"
+  },
+  "108": {
+    "tbNm": "tdw_ygmn_emplym_rt_anyang",
+    "url": "kosis"
+  },
+  "110": {
+    "tbNm": "tdw_ygmn_unempl_rt",
+    "url": "kosis"
+  },
+  "112": {
+    "tbNm": "tdw_empymn_person_irds",
+    "url": "kosis"
+  },
+  "114": {
+    "tbNm": "tdw_apt_trde_pc_idex",
+    "url": "kosis"
+  },
+  "116": {
+    "tbNm": "tdw_apt_mtht_pc_idex",
+    "url": "kosis"
+  },
+  "118": {
+    "tbNm": "tdw_apt_lfsts_pc_idex",
+    "url": "kosis"
+  },
+  "120": {
+    "tbNm": "tdw_house_trde_pc_flctn_rt",
+    "url": "kosis"
+  },
+  "122": {
+    "tbNm": "tdw_house_trde_pc_flctn_rt",
+    "url": "kosis"
+  },
+  "124": {
+    "tbNm": "tdw_house_trde_pc_idex",
+    "url": "kosis"
+  },
+  "126": {
+    "tbNm": "tdw_house_mtht_pc_idex",
+    "url": "kosis"
+  },
+  "128": {
+    "tbNm": "tdw_house_lfsts_pc_idex",
+    "url": "kosis"
+  },
+  "130": {
+    "tbNm": "tdw_one_psnby_grdp",
+    "url": "kosis"
+  },
+  "132": {
+    "tbNm": "tdw_ecnmy_growth_rt",
+    "url": "kosis"
+  },
+  "134": {
+    "tbNm": "tdw_bsnes_cnt",
+    "url": "kosis"
+  },
+  "136": {
+    "tbNm": "tdw_enfsn_cnt",
+    "url": "kosis"
+  },
+  "138": {
+    "tbNm": "tdw_incm_am",
+    "url": "kosis"
+  },
+  "140": {
+    "tbNm": "tdw_xport_am",
+    "url": "kosis"
+  },
+  "142": {
+    "tbNm": "tdw_fnanc_idpdc",
+    "url": "kosis"
+  },
+  "144": {
+    "tbNm": "tdw_fnanc_idpdgr",
+    "url": "kosis"
+  },
+  "146": {
+    "tbNm": "tdw_llx",
+    "url": "kosis"
+  },
+  "148": {
+    "tbNm": "tdw_polc_argnm_one_psnby_chrg_inhbtnt_cnt",
+    "url": "kosis"
+  },
+  "150": {
+    "tbNm": "tdw_rescue_relif_member_one_psnby_chrg_inhbtnt_cnt",
+    "url": "kosis"
+  },
+  "152": {
+    "tbNm": "",
+    "url": "kosis"
+  },
+  "154": {
+    "tbNm": "tdw_fgt_pbsvnt_one_psnby_chrg_inhbtnt_cnt",
+    "url": "kosis"
+  },
+  "156": {
+    "tbNm": "",
+    "url": "kosis"
+  },
+  "158": {
+    "tbNm": "tdw_fire_ocrn_nocs",
+    "url": "kosis"
+  },
+  "160": {
+    "tbNm": "tdw_prcpt_qy",
+    "url": "kosis"
+  },
+  "162": {
+    "tbNm": "tdw_tmprt",
+    "url": "kosis"
+  },
+  "164": {
+    "tbNm": "tdw_cty_gas_supply_rt",
+    "url": "kosis"
+  },
+  "166": {
+    "tbNm": "tdw_inhbtnt_one_psnby_lvlh_wste_dscamt",
+    "url": "kosis"
+  },
+  "168": {
+    "tbNm": "tdw_gnrl_wste_ruse_rt",
+    "url": "kosis"
+  },
+  "170": {
+    "tbNm": "tdw_last_energy_cnsmpqy",
+    "url": "kosis"
+  },
+  "172": {
+    "tbNm": "tdw_hlthins_aplcn_popltn_sttus",
+    "url": "kosis"
+  },
+  "174": {
+    "tbNm": "",
+    "url": "kosis"
+  },
+  "176": {
+    "tbNm": "",
+    "url": "kosis"
+  },
+  "178": {
+    "tbNm": "",
+    "url": "kosis"
+  },
+  "182": {
+    "tbNm": "",
+    "url": "epeople",
+    "dataName": "analysisTime"
+  },
+  "186": {
+    "tbNm": "",
+    "url": "epeople",
+    "dataName": "analysisTime"
+  },
+  "188": {
+    "tbNm": "",
+    "url": "epeople",
+    "dataName": "analysisTime",
+    "paramNm" : "age",
+    "params" : [
+      0,10,20,30,40,50,60,70,80,90
+    ]
+  },
+  "187": {
+    "tbNm": "",
+    "url": "epeople",
+    "dataName": "analysisTime",
+    "paramNm" : "sex",
+    "params" : [
+      "m","w"
+    ]
+  },
+  "190": {
+    "tbNm": "",
+    "url": "epeople",
+    "dataName": "analysisTime"
+  },
+
+  "test_tb_nm": {
+    "url": "test",
+    "params": [
+      "test1",
+      "test2"
+    ],
+    "jsonDivide": ""
+  },
+
+  "49": {
+    "tbNm": "tdw_bcycl_acdnt_mlttd_area_info",
+    "url" : "taas",
+    "searchYearCd": [
+      "2021028",
+      "2020037",
+      "2019038",
+      "2018032",
+      "2017050",
+      "2016147",
+      "2015046",
+      "2014109",
+      "2013099"
+    ],
+    "guGun": [
+      "171",
+      "173"
+    ]
+  },
+
+  "50": {
+  "tbNm" :"tdw_pdstrn_adnge_man_acdnt_mlttd_area_info",
+    "url": "taas",
+    "searchYearCd": [
+      "2021024",
+      "2020027",
+      "2019036",
+      "2018029",
+      "2017029",
+      "2016146",
+      "2015048",
+      "2014105",
+      "2013098"
+    ],
+    "guGun": [
+      "171",
+      "173"
+    ]
+  },
+  "51": {
+    "tbNm" : "tdw_pdstrn_child_acdnt_mlttd_area_info",
+    "url": "taas",
+    "searchYearCd": [
+      "2021017",
+      "2020016",
+      "2019035",
+      "2018028",
+      "2017027",
+      "2016044",
+      "2015049",
+      "2014110",
+      "2013097"
+    ],
+    "guGun": [
+      "171",
+      "173"
+    ]
+
+  },
+
+  "52": {
+    "tbNm" : "tdw_schul_zone_ise_child_acdnt_mlttd_area_info",
+    "url": "taas",
+    "searchYearCd": [
+      "2021018",
+      "2020015",
+      "2019034",
+      "2017027",
+      "2017026",
+      "2016040",
+      "2015042",
+      "2014095",
+      "2013060"
+    ],
+    "guGun": [
+      "171",
+      "173"
+    ]
+  },
+
+  "53": {
+    "tbNm" : "tdw_lrg_violt_accto_acdnt_mlttd_area_info",
+    "url": "taas",
+    "searchYearCd": [
+      "2021054",
+      "2021053",
+      "2020083",
+      "2020081",
+      "2019049",
+      "2019048",
+      "2018042",
+      "2018040"
+    ],
+    "guGun": [
+      "171",
+      "173"
+    ]
+  },
+
+  "54": {
+    "tbNm" : "tdw_locgov_accto_acdnt_mlttd_area_info",
+    "url": "taas",
+    "searchYearCd": [
+      "2021056",
+      "2020087",
+      "2019056",
+      "2018074"
+    ]
+  },
+
+  "55": {
+    "tbNm" : "tdw_frez_acdnt_mlttd_area_info",
+    "url": "taas",
+    "searchYearCd": [
+      "2021029",
+      "2020036",
+      "2019079",
+      "2018091"
+    ]
+  },
+
+  "56": {
+    "tbNm" : "tdw_twhlvhcl_acdnt_mlttd_area_info",
+    "url": "taas",
+    "guGun": [
+      "171",
+      "173"
+    ]
+  },
+
+  "59": {
+    "tbNm" : "tdw_dong_unit_sopsrt_bssh_inq",
+    "jsonDivide": "body",
+    "url": "datagov",
+    "key": [
+      "41171",
+      "41173"
+    ]
+  },
+
+  "180" : {
+    "tbNm" : "tdw_today_cvlcpt_issue",
+    "url" : "epeople",
+    "mainSubCode" : [
+      "3830000",
+      "6410000"
+    ]
+  },
+
+  "181" : {
+    "tbNm" : "tdw_cvlcpt_ocrn_inst_rank",
+    "url" : "epeople"
+  },
+
+  "183" : {
+    "tbNm" : "tdw_core_kwrd_info",
+    "url" : "epeople"
+  },
+
+  "184" : {
+    "tbNm" : "tdw_cvlcpt_ocrn_area_rank",
+    "url" : "epeople"
+  },
+
+  "185" : {
+    "tbNm" : "tdw_kwrd_fnd_cvlcpt_nocs_info",
+    "url" : "epeople"
+  },
+
+  "189" : {
+    "tbNm" : "tdw_area_popltn_provs_cvlcpt_sttus_info",
+    "url" : "epeople"
+  },
+
+  "191" : {
+    "tbNm" : ["tdw_srtpd_rl_sttus"]
+  },
+
+  "192": {
+    "tbNm": "tdw_arpltn_msrstn_rltm_mesure_info",
+    "url": "airkorea",
+    "paramNm" : "stationName",
+    "params": [
+      "안양2동",
+      "안양8동",
+      "부림동",
+      "호계동"
+    ]
+  }
+}

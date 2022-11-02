@@ -1,0 +1,75 @@
+{
+  "total": 100,
+  "rows" : [{
+    "_id": "abcd",
+    "createdAt" : "https://www.anyang.go.kr/"
+    "docType" : "abcd",
+    "geometry" : {
+      "coordinates" : [[12.3456,12,3562],[12.3456,12,3562]],
+      "type" : "type"
+    },
+    "serviceId" : "abcd",
+    "gatewayId" : "abcd",
+    "facilityId" : "abcd",
+    "onem2mId" : "abcd",
+    "templateId" : "abcd",
+    "templateName" : "abcd",
+    "properties" : {
+      "msrReport" : 1,
+      "installedAt" : "abcd",
+      "msrCycle" : 1,
+      "isp" : "1"
+      "rid" : "abcd",
+      "manufacturer" : "abcd",
+      "iface" : "abcd",
+      "msrId" : "abcd",
+      "meterCategory" : "abcd",
+      "msrNo" : "abcd",
+      "name" : "abcd",
+      "meterNo" : "abcd",
+      "model" : "abcd",
+      "hardwareVersion" : "abcd",
+      "softwareVersion" : "abcd",
+      "firmwareVersion" : "abcd",
+      "meterCaliber" : "abcd",
+      "megerGroup" : "abcd",
+      "status" : "abcd"
+    }
+  },{
+    "_id": "abcd",
+    "createdAt" : "https://www.anyang.go.kr/"
+    "docType" : "abcd",
+    "geometry" : {
+      "coordinates" : [[12.3456,12,3562],[12.3456,12,3562]],
+      "type" : "type"
+    },
+    "serviceId" : "abcd",
+    "gatewayId" : "abcd",
+    "facilityId" : "abcd",
+    "onem2mId" : "abcd",
+    "templateId" : "abcd",
+    "templateName" : "abcd",
+    "properties" : {
+      "msrReport" : 1,
+      "installedAt" : "abcd",
+      "msrCycle" : 1,
+      "isp" : "1"
+      "rid" : "abcd",
+      "manufacturer" : "abcd",
+      "iface" : "abcd",
+      "msrId" : "abcd",
+      "meterCategory" : "abcd",
+      "msrNo" : "abcd",
+      "name" : "abcd",
+      "meterNo" : "abcd",
+      "model" : "abcd",
+      "hardwareVersion" : "abcd",
+      "softwareVersion" : "abcd",
+      "firmwareVersion" : "abcd",
+      "meterCaliber" : "abcd",
+      "megerGroup" : "abcd",
+      "status" : "abcd"
+    }
+  }
+  ]
+}

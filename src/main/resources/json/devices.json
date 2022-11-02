@@ -1,0 +1,47 @@
+{
+  "total": 100,
+  "rows" : [{
+    "_id": "abcd",
+    "createdAt" : "https://www.anyang.go.kr/"
+    "docType" : "abcd",
+    "geometry" : {
+      "coordinates" : [
+        [12.3456,12,3562],[12.3456,12,3562]
+      ],
+      "type" : "type"
+    },
+    "templateName" : "abcd",
+    "templateId" : "abcd",
+    "properties" : {
+      "msrDate" : "20220101",
+      "fcltNo" : 1,
+      "fcltId" : 1,
+      "fcltAreaCode" : "abcd",
+      "areaName" : "abcd",
+      "name" : "abcd",
+      "status" : "abcd"
+    }
+  ,
+    {
+      "_id": "abcd",
+      "createdAt": "https://www.anyang.go.kr/"
+      "docType": "abcd",
+      "geometry": {
+        "coordinates": [
+          [12.3456, 12.3562],[12.3456, 12.3562]
+        ],
+        "type": "type"
+      },
+      "templateName": "abcd",
+      "templateId": "abcd",
+      "properties": {
+        "msrDate": "20220101",
+        "fcltNo": 1,
+        "fcltId": 1,
+        "fcltAreaCode": "abcd",
+        "areaName": "abcd",
+        "name": "abcd",
+        "status": "abcd"
+      }
+    }]
+}
