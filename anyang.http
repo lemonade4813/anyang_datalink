@@ -1,0 +1,14 @@
+GET http://222.233.176.138:8000/api/
+Content-Type: application/json
+X-ViewTrack-Token : wPocvshn1pxE70yD8LgUbk35HMrXGQ9m
+
+{
+    "{{param}}" : "{{paramVal}}",
+    "from"      : {{from}},
+    "size"      : {{size}},
+    "sort"      : {{sort}}
+    ""
+}
+
+
+
